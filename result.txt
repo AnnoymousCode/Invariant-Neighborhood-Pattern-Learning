@@ -1,0 +1,72 @@
+Run 01:
+Highest Train: 37.78
+Highest Valid: 29.93
+  Final Train: 36.38
+   Final Test: 27.57
+[0.27491408934707906, 0.2774566473988439, 0.3081761006289308, 0.21153846153846154, 0.15]
+
+label accuracy:
+label 0 accuracy: 1.84 ± nan
+label 1 accuracy: 50.25 ± nan
+label 2 accuracy: 19.21 ± nan
+label 3 accuracy: 44.00 ± nan
+label 4 accuracy: 25.23 ± nan
+total label accuracy: 27.57 ± nan
+
+degree accuracy:
+degree2.45 accuracy: 19.35 ± nan
+degree5.58 accuracy: 23.98 ± nan
+degree10.91 accuracy: 31.36 ± nan
+degree21.62 accuracy: 27.62 ± nan
+degree42.78 accuracy: 28.57 ± nan
+degree98.82 accuracy: 28.33 ± nan
+degree174.03 accuracy: 31.29 ± nan
+degree597.81 accuracy: 18.97 ± nan
+Run 01:
+Highest Train: 37.78
+Highest Valid: 29.93
+  Final Train: 36.38
+   Final Test: 27.57
+[0.27491408934707906, 0.2774566473988439, 0.3081761006289308, 0.21153846153846154, 0.15]
+
+label accuracy:
+label 0 accuracy: 1.84 ± nan
+label 1 accuracy: 50.25 ± nan
+label 2 accuracy: 19.21 ± nan
+label 3 accuracy: 44.00 ± nan
+label 4 accuracy: 25.23 ± nan
+total label accuracy: 27.57 ± nan
+
+degree accuracy:
+degree2.45 accuracy: 19.35 ± nan
+degree5.58 accuracy: 23.98 ± nan
+degree10.91 accuracy: 31.36 ± nan
+degree21.62 accuracy: 27.62 ± nan
+degree42.78 accuracy: 28.57 ± nan
+degree98.82 accuracy: 28.33 ± nan
+degree174.03 accuracy: 31.29 ± nan
+degree597.81 accuracy: 18.97 ± nan
+Run 01:
+Highest Train: 37.78
+Highest Valid: 29.93
+  Final Train: 36.38
+   Final Test: 27.57
+[0.27491408934707906, 0.2774566473988439, 0.3081761006289308, 0.21153846153846154, 0.15]
+
+label accuracy:
+label 0 accuracy: 1.84 ± nan
+label 1 accuracy: 50.25 ± nan
+label 2 accuracy: 19.21 ± nan
+label 3 accuracy: 44.00 ± nan
+label 4 accuracy: 25.23 ± nan
+total label accuracy: 27.57 ± nan
+
+degree accuracy:
+degree2.45 accuracy: 19.35 ± nan
+degree5.58 accuracy: 23.98 ± nan
+degree10.91 accuracy: 31.36 ± nan
+degree21.62 accuracy: 27.62 ± nan
+degree42.78 accuracy: 28.57 ± nan
+degree98.82 accuracy: 28.33 ± nan
+degree174.03 accuracy: 31.29 ± nan
+degree597.81 accuracy: 18.97 ± nan
